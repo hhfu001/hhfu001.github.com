@@ -1,6 +1,6 @@
 ---
 layout: page
-title: my test!
+title: The wiki of hhfu001
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
