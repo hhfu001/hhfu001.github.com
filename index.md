@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Home
+title:  The Notes Of Mine
 ---
 {% include JB/setup %}
 
